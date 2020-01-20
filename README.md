@@ -1,5 +1,6 @@
 # xp-workshop
-Workshop in company to refresh XP values and principles. Also allow people to apply some XP practices like pair programming, tdd, incremental design.
+Support Material for XP Workshop during XP values and principles sharing.
+Also, support content to apply some XP practices like pair programming, tdd, incremental design.
 
 ### Articles and Posts
 - [Uncle Bob’s post about test double](https://blog.cleancoder.com/uncle-bob/2014/05/14/TheLittleMocker.html)
