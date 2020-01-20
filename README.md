@@ -9,8 +9,8 @@ Workshop in company to refresh XP values and principles. Also allow people to ap
 - [Dependency Inversion principle](https://martinfowler.com/articles/dipInTheWild.html)
 
 #### Code repository
-- [Rock-paper-scissors repository](https://github.com/ltessaro/xp-workshop/rock-paper-scissors)
-- [SmartHome repository](https://github.com/ltessaro/xp-workshop/smart-home)
+- [Rock-paper-scissors repository](https://github.com/ltessaro/xp-workshop/tree/master/rock-paper-scissors)
+- [SmartHome repository](https://github.com/ltessaro/xp-workshop/tree/master/smart-home)
 
 #### Books
 - [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
